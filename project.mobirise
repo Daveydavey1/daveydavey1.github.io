@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Personl Website",
-    "currentPage": "contact.html",
+    "currentPage": "contacts.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1565,7 +1565,7 @@
         }
       ]
     },
-    "contact.html": {
+    "contacts.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "contacts",
