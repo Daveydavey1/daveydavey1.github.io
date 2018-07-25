@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Personl Website",
-    "currentPage": "Portfolio.html",
+    "currentPage": "portfolio.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
         "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 16,
+    "uniqCompNum": 22,
     "versionPublish": "4.8.1"
   },
   "pages": {
@@ -490,14 +490,6 @@
         }
       ]
     },
-    "page3.html": {
-      "settings": {
-        "meta_descr": "Website Creator Description",
-        "title": "Index",
-        "order": 1
-      },
-      "components": []
-    },
     "Privicy.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
@@ -623,11 +615,11 @@
         }
       ]
     },
-    "Portfolio.html": {
+    "portfolio.html": {
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Portfolio",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
