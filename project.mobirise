@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Personl Website",
-    "currentPage": "Tutorials.html",
+    "currentPage": "tutorials.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1086,7 +1086,7 @@
         }
       ]
     },
-    "Tutorials.html": {
+    "tutorials.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Tutorials",
